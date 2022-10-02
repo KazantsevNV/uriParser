@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ciji1rYmgjqK21zS9FCIX+xioSpCvdliWaq8AfrAkFqN0leYPLRlRr3+hj6JRwAJ8agIsM0VgwFloKIqYX6uTw==",
+  "success": true,
+  "projectFilePath": "D:\\Nikolay\\Project\\URIParserProject\\URIParserProject\\URIParserProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikolay\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
